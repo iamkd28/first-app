@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Hi! This is Kunal. Making my first React app. This is part of the Forage Software Development course
 
+This is the update_logo branch
